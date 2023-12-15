@@ -1,0 +1,3 @@
+Flask
+pymongo==3.12.1
+requests
